@@ -31,19 +31,10 @@ I have experience developing enterprise systems, mobile applications, and RESTfu
 
 ### Tools
 - Git / GitHub
-- Docker
 - Postman
 - Swagger
 
-## 📌 Featured Projects
-
-### MongoMovie API
-REST API built with Node.js, Express, PostgreSQL, JWT authentication and pagination.
-
-### eINSP
-Mobile application developed with Delphi FMX for field inspections, GPS integration and offline data management.
-
 ## 📫 Contact
 
-LinkedIn: seu-link-aqui
-Email: seu-email-aqui
+LinkedIn: [seu-link-aqui](https://www.linkedin.com/in/evandro-taylor/)
+Email: evandro_taylor@hotmail.com
