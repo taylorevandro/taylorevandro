@@ -6,6 +6,8 @@ Software Engineer with a Bachelor's degree in Computer Science, focused on build
 
 I have experience developing enterprise systems, mobile applications, and RESTful APIs using Delphi, Flutter, Node.js, and modern software development practices.
 
+![Linkedln](https://www.linkedin.com/in/evandro-taylor/)
+
 ## 🚀 Technologies & Tools
 
 ### Backend
