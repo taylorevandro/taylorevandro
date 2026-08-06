@@ -36,5 +36,5 @@ I have experience developing enterprise systems, mobile applications, and RESTfu
 
 ## 📫 Contact
 
-LinkedIn: [seu-link-aqui](https://www.linkedin.com/in/evandro-taylor/)
+LinkedIn: [evandro-taylor](https://www.linkedin.com/in/evandro-taylor/)
 Email: evandro_taylor@hotmail.com
