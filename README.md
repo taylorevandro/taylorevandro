@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Evandro Silva 👋
 
-<!--
-**taylorevandro/taylorevandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+Software Engineer with a Bachelor's degree in Computer Science, focused on building scalable and efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience developing enterprise systems, mobile applications, and RESTful APIs using Delphi, Flutter, Node.js, and modern software development practices.
+
+## 🚀 Technologies & Tools
+
+### Backend
+- Node.js
+- Express
+- Delphi
+- Horse Framework
+- REST APIs
+- JWT Authentication
+
+### Mobile
+- Flutter
+- Dart
+- React Native
+- Delphi FMX
+
+### Databases
+- PostgreSQL
+- SQL Server
+- Firebird
+- MySQL
+- SQLite
+
+### Tools
+- Git / GitHub
+- Docker
+- Postman
+- Swagger
+
+## 📌 Featured Projects
+
+### MongoMovie API
+REST API built with Node.js, Express, PostgreSQL, JWT authentication and pagination.
+
+### eINSP
+Mobile application developed with Delphi FMX for field inspections, GPS integration and offline data management.
+
+## 📫 Contact
+
+LinkedIn: seu-link-aqui
+Email: seu-email-aqui
