@@ -39,4 +39,5 @@ I have experience developing enterprise systems, mobile applications, and RESTfu
 ## 📫 Contact
 
 Email: evandro_taylor@hotmail.com
+
 Belém, Pará, Brazil
