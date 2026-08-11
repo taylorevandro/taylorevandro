@@ -6,7 +6,7 @@ Software Engineer with a Bachelor's degree in Computer Science, focused on build
 
 I have experience developing enterprise systems, mobile applications, and RESTful APIs using Delphi, Flutter, Node.js, and modern software development practices.
 
-![Linkedln](https://www.linkedin.com/in/evandro-taylor/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5)](https://www.linkedin.com/in/evandro-taylor/)
 
 ## 🚀 Technologies & Tools
 
@@ -38,5 +38,5 @@ I have experience developing enterprise systems, mobile applications, and RESTfu
 
 ## 📫 Contact
 
-LinkedIn: [evandro-taylor](https://www.linkedin.com/in/evandro-taylor/)
 Email: evandro_taylor@hotmail.com
+Belém, Pará, Brazil
